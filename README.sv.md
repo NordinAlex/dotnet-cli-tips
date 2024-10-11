@@ -19,7 +19,7 @@
 
 Välkommen till **.NET CLI Tips**! 🎉 Detta repository är tänkt att göra det enklare att arbeta med `.NET`-kommandoradsverktyg för utvecklare. Oavsett om du hanterar projekt, kör tester eller distribuerar applikationer hittar du det du behöver här.
 
-🇸🇪 **Letar du efter den engelska versionen?** Kolla in [Engelska Versionen](README.md) för instruktioner och kommandon på engelska.
+🇺🇸: **Letar du efter den engelska versionen?** Kolla in [Engelska Versionen](README.md) för instruktioner och kommandon på engelska.
 
 ## 🔧 Projekt- och Lösningshantering
 
